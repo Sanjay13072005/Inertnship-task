@@ -42,24 +42,13 @@ Traffic Accident Dataset – Road conditions & accident factors
 World Population Dataset – Population statistics by country
 Titanic Dataset – Passenger survival records
 Banking Dataset – Customer loan approval data
-📜 How to Run the Projects
-1️⃣ Clone the repository:
 
-bash
-Copy
-Edit
 git clone [https://github.com/Sanjay13072005/Inertnship-task/tree/main]
 2️⃣ Install dependencies:
 
-bash
-Copy
-Edit
-pip install pandas seaborn matplotlib scikit-learn graphviz
-3️⃣ Run the Jupyter Notebooks or Python scripts:
 
-bash
-Copy
-Edit
-jupyter notebook
-🎯 Conclusion
+
+
+
+Conclusion
 These projects provided hands-on experience with data analysis, visualization, and machine learning, helping to derive valuable insights from real-world datasets. 🚀
